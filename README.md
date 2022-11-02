@@ -1,3 +1,3 @@
 # odin-recipes
 
-Recipe project
+Recipe project for Odin Project Foundations course - html-only
